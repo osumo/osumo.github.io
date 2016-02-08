@@ -33,3 +33,10 @@ header {
 .navbar-default .navbar-nav>.active>a {
     background-color: #bb0000;
 }
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle {
+    background-color: #bb0000;
+    border-color: #bb0000;
+}
