@@ -1,0 +1,42 @@
+.navbar-default .navbar-brand {
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, cursive;
+    font-weight: bold;
+    color: white;
+}
+
+header {
+    background-image: none;
+    background-color: #666666;
+}
+
+.intro-heading {
+    color: #880000;
+}
+
+#services-button {
+    background-color: #442369;
+    border-color: #442369;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus  {
+    color: #bb0000;
+}
+
+.navbar-default .nav li a:hover,
+.navbar-default .nav li a:focus {
+    color: #bb0000;
+}
+
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a {
+    background-color: #bb0000;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle {
+    background-color: #bb0000;
+    border-color: #bb0000;
+}
