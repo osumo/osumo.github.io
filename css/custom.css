@@ -13,7 +13,7 @@ header {
     color: #880000;
 }
 
-#home-button {
+#services-button {
     background-color: #442369;
     border-color: #442369;
 }
@@ -39,26 +39,4 @@ header {
 .navbar-default .navbar-toggle {
     background-color: #bb0000;
     border-color: #bb0000;
-}
-
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
-    background: #442369;
-}
-
-.btn-primary,
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active,
-.open .dropdown-toggle.btn-primary {
-    background-color: #442369;
-    border-color: #442369;
-}
-
-a,
-a:hover,
-a:focus,
-a:active,
-a.active {
-    color: #442369;
 }
